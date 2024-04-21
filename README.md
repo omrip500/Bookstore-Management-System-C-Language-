@@ -45,7 +45,4 @@ Once the program is running, follow the prompts to navigate through the various 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## Acknowledgements
-Special thanks to [Name] for inspiration and guidance.
-
 ![Screenshot 1](FinalProject/forProject.png)
