@@ -8,7 +8,7 @@
 #include "Appointment.h"
 #include "Schedule.h"
 #include "Branch.h"
-#include "List.h"
+#include "list.h"
 #include "def.h"
 #include "macros.h"
 int initBarber(Barber* pBarber)

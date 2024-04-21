@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "kitchenWorker.h"
-#include "branch.h"
-#include "barberSalon.h"
+#include "KitchenWorker.h"
+#include "Branch.h"
+#include "BarberSalon.h"
 #include "General.h"
-#include "kitchen.h"
+#include "Kitchen.h"
 
 
 int initKitchenWorker(KitchenWorker* pKitchWorker)

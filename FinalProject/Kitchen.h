@@ -1,7 +1,7 @@
 #ifndef __KITCHEN__
 #define __KITCHEN__
 
-#include "kitchenWorker.h"
+#include "KitchenWorker.h"
 #include "list.h"
 #include "Supplier.h"
 

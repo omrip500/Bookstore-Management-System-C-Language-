@@ -6,7 +6,7 @@
 #include "KitchenWorker.h"
 #include "Product.h"
 #include "def.h"
-#include "List.h"
+#include "list.h"
 #include "macros.h"
 
 #define TEXT_FILE_NAME "supplier.txt"
@@ -45,7 +45,7 @@ void initKitchen(Kitchen* pKitch)
 		exit(1);
 	}
 
-	(Kitchen*)kWorker->kitchen = pKitch; 
+	kWorker->kitchen = pKitch;
 	initKitchenWorker(kWorker);
 	pKitch->kWorker = kWorker; 
 }

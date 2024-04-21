@@ -1,7 +1,7 @@
 #ifndef __BARBER__
 #define __BARBER__
 
-#include "List.h"
+#include "list.h"
 #include "Date.h"
 
 #define OPENING_HOUR 9
