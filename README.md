@@ -27,7 +27,6 @@ To get a local copy up and running, follow these simple steps:
 
 2. Compile the source code:
    ```bash
-   gcc main.c -o bookstore
    cd finalProject
 
 3. Use Make to build the project:
