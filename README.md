@@ -19,7 +19,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/yourusername/bookstore-management-system.git
+   git clone https://github.com/omrip500/Hairdressing-Management-System-C-Language-.git
 
 2. Enter the final project directory:
    ````bash
