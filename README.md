@@ -1,6 +1,6 @@
 # Hairdressing Management System
 
-This project is a comprehensive information management system developed in C for managing a network of bookstores. It includes functionalities for adding branches, inserting new books into the system, branch and book management, customer appointment scheduling, kitchen addition, supplier orders, and more.
+This project is a comprehensive information management system developed in C for managing a network of barbershops. It includes functionalities for adding branches, inserting new barbers into the system, branch and barber management, customer appointment scheduling, kitchen addition, supplier orders, and more.
 
 
 
