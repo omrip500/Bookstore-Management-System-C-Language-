@@ -1,4 +1,4 @@
-# Bookstore Management System
+# Hairdressing Management System
 
 This project is a comprehensive information management system developed in C for managing a network of bookstores. It includes functionalities for adding branches, inserting new books into the system, branch and book management, customer appointment scheduling, kitchen addition, supplier orders, and more.
 
