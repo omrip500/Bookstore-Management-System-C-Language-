@@ -39,7 +39,7 @@ To get a local copy up and running, follow these simple steps:
 
 
 ## Usage
-Once the program is running, follow the prompts to navigate through the various functionalities of the bookstore management system.
+Once the program is running, follow the prompts to navigate through the various functionalities of the hairdressing management system.
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
